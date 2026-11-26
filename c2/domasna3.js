@@ -46,5 +46,5 @@ function najdolgZbor(zborovi) {
   }
   return najdolg;
 }
-console.log(najdolgZbor(["lav", "ore", "gul"]));
-console.log(najdolgZbor(["sed", "dva", "pet"]));
+console.log(najdolgZbor(["lav", "ore", "gulab"]));
+console.log(najdolgZbor(["sedum", "dva", "pet"]));

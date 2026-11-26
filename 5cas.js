@@ -147,3 +147,8 @@ function vkupnoZaDostava(cena, kolicina, dostava = 100){
 }
 console.log(vkupnoZaDostava(200, 3));
 console.log(vkupnoZaDostava(500, 3, 300));
+console.log(typeof "42");
+console.log(4 + 3 * 2);
+for (let i = 0; i < 4; i++) {
+  console.log("JS");
+}
